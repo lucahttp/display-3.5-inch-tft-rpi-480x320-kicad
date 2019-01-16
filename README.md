@@ -7,3 +7,5 @@ has an resolution of 480x320 pixels
 this library have the designs of footprints (PCB) and symbols (schematics) for kicad
 
 ## Rev. 2.0
+
+![Alt text](https://www.elegoo.com/wp-content/uploads/2017/01/4-8.jpg?raw=true "Title")
